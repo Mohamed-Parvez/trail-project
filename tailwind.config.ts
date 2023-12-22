@@ -9,9 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'main-b': "url('/minimal-background-pattern-wordpress-10.jpg')",
+        'bg-1': "url('/bg-1.png')",
+        'bg-2': "url('/bg-2.png')",
       },
     },
   },
